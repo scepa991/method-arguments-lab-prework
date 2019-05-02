@@ -1,6 +1,5 @@
-def introduction(Josh)
+def introduction(name)
   puts "Hi, my name is #{name}."
-
 end
 
 def introduction(Josh, Ember.js)
